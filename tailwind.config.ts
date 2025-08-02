@@ -61,6 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				space: {
+					deep: '#1A0B3D',
+					cosmic: '#4C1D95',
+					nebula: '#7C3AED',
+					energy: '#EF4444',
+					alien: '#10B981'
 				}
 			},
 			borderRadius: {
